@@ -12,6 +12,11 @@ Overall, Trippy is a user-friendly and visually appealing website that helps use
 * HTML
 * CSS
 
+## Video Preview
+
+https://user-images.githubusercontent.com/117558233/232273065-756b9961-9d19-4e61-a62d-51c6972c8e7b.mp4
+
+
 ## Photo Preview
 
 ![Screenshot 2023-04-16 103215](https://user-images.githubusercontent.com/117558233/232271791-36c92dca-1687-4b68-a38b-37069bde8ae8.png)
